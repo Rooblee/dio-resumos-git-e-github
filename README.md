@@ -1,5 +1,5 @@
 
-# DIO  | Resumos Git e Git Hub
+# DIO  | Resumos Git e Git Hub ambos
 
 Arquivo resultado da aula Git e Git Hub [Digital Innovatio One](https://www.dio.me/).
 
