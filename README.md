@@ -9,7 +9,7 @@ Arquivo resultado da aula Git e Git Hub [Digital Innovatio One](https://www.dio.
 
 ## Resumos das Aulas
 
-| Aulas | Resumos | 
+| Aulas 1 || Aulas 2 |  Resumos | 
 |--------|---------|
 | [Gravando alterações no repositório local ](Resumos).
 
